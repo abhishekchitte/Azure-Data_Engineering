@@ -1,0 +1,12 @@
+{
+	"name": "ls_AzureDataLakeStorage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://nycpayrollchittestorage.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEFCRDI2MkNCLTEyOTQtNDM3Mi1CMkE1LTIyQURCMzEzNUEzNV80NGQyZDM1NS04NGMxLTQ4MDctODY1OS1kMGM5ZmY3N2NjYzEiDQp9"
+		}
+	}
+}

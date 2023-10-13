@@ -1,0 +1,9 @@
+{
+	"name": "nycpayrollADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec762a10-9a55-4a36-b9b8-45b90914a10e",
+		"tenantId": "edf9288a-640a-4a80-9eaa-55fa1a2c4f2f"
+	}
+}
